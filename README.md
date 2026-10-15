@@ -59,6 +59,12 @@ Como executar o projeto
 
 **Importante:** execute os scripts nessa ordem em um banco de dados de teste vazio. Não execute novamente o script de inserção em um banco que já contenha os dados, pois isso pode duplicar registros.
 
+## Diagrama do banco de dados
+
+O diagrama apresenta as tabelas, chaves primárias, chaves estrangeiras e os relacionamentos do sistema.
+
+[Visualizar diagrama do banco de dados](docs/diagrama_banco.md)
+
 Objetivo profissional
 
 Projeto de estudo desenvolvido para demonstrar conhecimentos iniciais em bancos de dados relacionais e SQL, com foco em controle de estoque e relatórios gerenciais.
