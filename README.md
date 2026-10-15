@@ -48,8 +48,6 @@ A pasta `sql/` contém os scripts para criar as tabelas, inserir dados, executar
 
 Como executar o projeto
 
-## Como executar o projeto
-
 1. Instale o MySQL Server e o MySQL Workbench.
 2. Execute `01_criar_tabelas.sql` em um banco de dados vazio.
 3. Execute `02_inserir_dados.sql` para inserir os dados de exemplo.
@@ -57,9 +55,11 @@ Como executar o projeto
 5. Execute `05_procedures.sql` para criar a procedure de movimentação de estoque.
 6. Execute `03_consultas_relatorios.sql` para visualizar os relatórios e testar as consultas.
 
+
 **Importante:** execute os scripts nessa ordem em um banco de dados de teste vazio. Não execute novamente o script de inserção em um banco que já contenha os dados, pois isso pode duplicar registros.
 
-## Diagrama do banco de dados
+
+Diagrama do banco de dados
 
 O diagrama apresenta as tabelas, chaves primárias, chaves estrangeiras e os relacionamentos do sistema.
 
