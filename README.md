@@ -85,9 +85,6 @@ Evidência do teste da procedure responsável por registrar movimentações de e
 
 ![Teste da procedure](docs/procedure_movimentacao.PNG)
 
-Modelo do banco de dados
-
-[Consultar o diagrama das tabelas e relacionamentos](docs/diagrama_banco.md)
 
 Objetivo profissional
 
