@@ -65,6 +65,30 @@ O diagrama apresenta as tabelas, chaves primárias, chaves estrangeiras e os rel
 
 [Visualizar diagrama do banco de dados](docs/diagrama_banco.md)
 
+Evidências do projeto
+
+Estoque atual
+
+Relatório com os produtos cadastrados, quantidades disponíveis e valores em estoque.
+
+![Relatório de estoque atual](docs/estoque_atual.PNG)
+
+Produtos com estoque baixo
+
+Consulta que identifica os produtos abaixo do estoque mínimo definido.
+
+![Relatório de estoque baixo](docs/estoque_baixo.PNG)
+
+Procedure de movimentação
+
+Evidência do teste da procedure responsável por registrar movimentações de estoque.
+
+![Teste da procedure](docs/procedure_movimentacao.PNG)
+
+Modelo do banco de dados
+
+[Consultar o diagrama das tabelas e relacionamentos](docs/diagrama_banco.md)
+
 Objetivo profissional
 
 Projeto de estudo desenvolvido para demonstrar conhecimentos iniciais em bancos de dados relacionais e SQL, com foco em controle de estoque e relatórios gerenciais.
